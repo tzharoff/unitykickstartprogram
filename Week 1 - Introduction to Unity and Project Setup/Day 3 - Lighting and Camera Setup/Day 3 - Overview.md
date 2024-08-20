@@ -1,0 +1,2 @@
+### Overview
+By the end of Week 2 Day 3, students will have a polished camera follow system integrated with their player character, and a fully functional movement system ready for more complex interactions.
