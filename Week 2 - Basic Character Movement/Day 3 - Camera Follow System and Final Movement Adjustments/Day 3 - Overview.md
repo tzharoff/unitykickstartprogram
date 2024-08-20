@@ -1,2 +1,2 @@
 ### Overview
-By the end of Day 3, students will have a solid understanding of basic lighting and camera setup in Unity. Their scenes will be properly lit, and the camera will be positioned and configured to follow the player, setting the stage for further development.
+By the end of Week 1 Day 3, students will have a solid understanding of basic lighting and camera setup in Unity. Their scenes will be properly lit, and the camera will be positioned and configured to follow the player, setting the stage for further development.
