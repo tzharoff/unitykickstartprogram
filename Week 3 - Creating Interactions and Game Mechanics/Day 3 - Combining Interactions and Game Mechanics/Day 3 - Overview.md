@@ -1,0 +1,2 @@
+### Overview
+By the end of Week 3 Day 3, students will have combined their knowledge to create a simple puzzle or challenge, refined their game mechanics, and ensured that all interactions work together smoothly.
